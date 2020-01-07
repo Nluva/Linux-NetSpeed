@@ -10,7 +10,7 @@
 
 ## 一键脚本
 
-![Linux-NetSpeed](https://storage.cloud.google.com/cy-bucket/github/Linux-NetSpeed.png)
+![Linux-NetSpeed](https://storage.googleapis.com/cy-bucket/github/Linux-NetSpeed.png)
 
 
 # Linux-NetSpeed
