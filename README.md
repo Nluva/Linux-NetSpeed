@@ -10,7 +10,7 @@
 
 ## 一键脚本
 
-![Linux-NetSpeed](https://storage.googleapis.com/cy-bucket/github/Linux-NetSpeed.png)
+![Linux-NetSpeed](https://www.kie.cc/images/Linux-NetSpeed.png)
 
 
 # Linux-NetSpeed
@@ -26,7 +26,7 @@ wget "https://github.com/ikym/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.
 
 如果在删除内核环节出现这样一张图
 
-![Linux-NetSpeed-1](https://storage.googleapis.com/cy-bucket/github/Linux-NetSpeed-1.png)
+![Linux-NetSpeed-1](https://www.kie.cc/images/Linux-NetSpeed-1.png)
 
 **注意选择NO**
 
