@@ -15,7 +15,7 @@
 
 # Linux-NetSpeed
 ```
-wget "https://nluva.com/Linux-NetSpeed/raw/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+wget "https://nluva.com/raw/Linux-NetSpeed/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
 ## 脚本说明
