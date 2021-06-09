@@ -15,7 +15,7 @@
 
 # Linux-NetSpeed
 ```
-wget "https://github.com/ikym/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+wget "https://github.com/hsce/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
 ## 脚本说明
